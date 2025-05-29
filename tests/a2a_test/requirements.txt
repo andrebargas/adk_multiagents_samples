@@ -1,0 +1,12 @@
+google-adk
+flask
+sseclient
+google-cloud-bigquery
+pandas
+python-dotenv
+langchain-google-vertexai
+langchain-community
+google-generativeai
+# Add litellm if you plan to use non-Google models as shown in the tutorial
+# litellm
+langchain_google_genai
